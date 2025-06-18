@@ -1,6 +1,6 @@
 # AI Document Research Assistant
 
-A powerful AI-powered document research assistant that helps you analyze and extract insights from multiple documents through natural language queries. This project is part of the Wasserstoff AI Intern Task.
+A powerful AI-powered document research assistant that helps you analyze and extract insights from multiple documents through natural language queries.
 
 ## 🚀 Features
 
@@ -32,8 +32,8 @@ A powerful AI-powered document research assistant that helps you analyze and ext
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kunalhacks/kunal-sengar-wasserstoff-AiInternTask.git
-   cd kunal-sengar-wasserstoff-AiInternTask
+   git clone https://github.com/kunalhacks/Document-Research-Aichatbot.git
+   cd Document-Research-Aichatbot
    ```
 
 2. **Create and activate virtual environment**
@@ -72,7 +72,7 @@ A powerful AI-powered document research assistant that helps you analyze and ext
 ## 🏗️ Project Structure
 
 ```
-AiInternTask/
+Document-Research-Aichatbot/
 ├── app/                    # Main application package
 │   ├── __init__.py         # Package initialization
 │   ├── models/             # Data models
